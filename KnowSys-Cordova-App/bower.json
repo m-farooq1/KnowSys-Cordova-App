@@ -1,0 +1,14 @@
+{
+  "name": "ionic-blankapp",
+  "private": true,
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.2.4"
+  },
+  "resolutions": {
+    "angular": ">= 1.0.8",
+    "angular-sanitize": "1.4.6"
+  },
+  "dependencies": {
+    "angular-sanitize": "1.4.6"
+  }
+}
